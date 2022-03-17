@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/`您的账户名`-github-readme)
-<img src="https://github-readme-stats.vercel.app/api?username=`eru-Ryuuzaki`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false" />
+// github - stats
+https://github-readme-stats.vercel.app/api?username=eru-Ryuuzaki&theme=dark&show_icons=true
+// most - used-language
+https://github-readme-stats.vercel.app/api/top-langs/?username=eru-Ryuuzaki&layout=compact&hide=html&theme=dark
+// total - contribution
+https://github-readme-streak-stats.herokuapp.com/?user=eru-Ryuuzaki&theme=highcontrast
+

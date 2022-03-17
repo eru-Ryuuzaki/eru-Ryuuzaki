@@ -14,10 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// github - stats
-https://github-readme-stats.vercel.app/api?username=eru-Ryuuzaki&theme=dark&show_icons=true
-// most - used-language
-https://github-readme-stats.vercel.app/api/top-langs/?username=eru-Ryuuzaki&layout=compact&hide=html&theme=dark
-// total - contribution
-https://github-readme-streak-stats.herokuapp.com/?user=eru-Ryuuzaki&theme=highcontrast
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eru-Ryuuzaki)](https://github.com/anuraghazra/github-readme-stats)
 
